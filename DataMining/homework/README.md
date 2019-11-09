@@ -5,3 +5,4 @@
   读取的是homework.xlsx文件（已经自己手动打上了标签）
 * 作业四：homework3_knn.py,knn读取的还是上一个homework.xlsx文件
 * 作业五：homwework_kmeans.py，实现k均值聚类
+* 作业六：Apriori.py读取的是apriori.xlsx文件实现关联规则挖掘
